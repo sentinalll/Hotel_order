@@ -1,0 +1,50 @@
+INFO : 01.07.2013 14:21 Check login 
+INFO : 11.07.2013 13:06 Check register data 
+INFO : 11.07.2013 13:06 Check login 
+INFO : 11.07.2013 13:06 User : 1 login
+INFO : 11.07.2013 13:06 User : 1 sign out
+INFO : 11.07.2013 13:07 Admin logined
+INFO : 11.07.2013 13:07 admin get opened order
+INFO : 11.07.2013 13:07 Admin get all order
+INFO : 11.07.2013 13:07 Admin get all clients
+INFO : 11.07.2013 13:07 Admin get all rooms
+INFO : 11.07.2013 13:08 Admin get all order
+INFO : 11.07.2013 13:08 admin get opened order
+INFO : 11.07.2013 13:08 Admin sign out
+INFO : 11.07.2013 13:14 Admin logined
+INFO : 11.07.2013 13:14 admin get opened order
+INFO : 11.07.2013 13:14 Admin get all rooms
+INFO : 11.07.2013 13:23 jsp/login.jsp
+INFO : 11.07.2013 13:24 jsp/login.jsp
+INFO : 11.07.2013 13:28 jsp/adminlogin.jsp
+INFO : 11.07.2013 13:28 jsp/adminlogin.jsp
+INFO : 11.07.2013 13:28 jsp/adminlogin.jsp
+INFO : 11.07.2013 13:28 jsp/adminlogin.jsp
+INFO : 11.07.2013 13:28 jsp/adminlogin.jsp
+INFO : 11.07.2013 13:28 jsp/adminlogin.jsp
+INFO : 11.07.2013 13:28 Admin logined
+INFO : 11.07.2013 13:28 admin get opened order
+INFO : 11.07.2013 13:28 Admin get all order
+INFO : 11.07.2013 13:28 jsp/paid.jsp
+INFO : 11.07.2013 13:28 jsp/paid.jsp
+INFO : 11.07.2013 13:28 jsp/paid.jsp
+INFO : 11.07.2013 13:28 jsp/paid.jsp
+INFO : 11.07.2013 13:28 Admin get all rooms
+INFO : 11.07.2013 13:28 Admin get all clients
+INFO : 11.07.2013 13:28 Admin sign out
+INFO : 11.07.2013 13:28 jsp/login.jsp
+INFO : 11.07.2013 13:28 jsp/login.jsp
+INFO : 11.07.2013 13:28 User : 1 login
+INFO : 11.07.2013 13:29 jsp/leave_order.jsp
+INFO : 11.07.2013 13:29 jsp/leave_order.jsp
+INFO : 11.07.2013 13:29 jsp/leave_order.jsp
+INFO : 11.07.2013 13:29 jsp/leave_order.jsp
+INFO : 11.07.2013 13:29 jsp/leave_order.jsp
+INFO : 11.07.2013 13:29 jsp/leave_order.jsp
+INFO : 11.07.2013 13:29 User : 1 sign out
+INFO : 27.07.2013 19:12 User : 1 login
+INFO : 27.07.2013 19:12 jsp/leave_order.jsp
+INFO : 27.07.2013 19:12 jsp/leave_order.jsp
+INFO : 27.07.2013 19:12 jsp/leave_order.jsp
+INFO : 27.07.2013 19:19 User : 1 login
+INFO : 27.07.2013 19:25 User : 1 login
